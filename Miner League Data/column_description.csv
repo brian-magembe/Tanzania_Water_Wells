@@ -1,4 +1,5 @@
 Column_name,Description
+status_group,Condition of the well
 date_recorded,The date the row was entered
 funder,Who funded the well
 gps_height,Altitude of the well
